@@ -1,16 +1,15 @@
-importance: 5
+importância: 5
 
 ---
 
-# Rewrite 'if' into '?'
+# Re-escrever "se" em '?
 
-Rewrite this `if` using the ternary operator `'?'`:
+Reescreva este `if` utilizando o operador ternário `'?'`:
 
 ```js
 if (a + b < 4) {
-  result = 'Below';
+  resultado = "Abaixo";
 } else {
-  result = 'Over';
+  resultado = "Acima";
 }
 ```
-
